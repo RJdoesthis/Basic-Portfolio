@@ -1,0 +1,57 @@
+.headerContainer {
+}
+
+.name {
+    float: left;
+    width: 50%;
+}
+
+.NavLinks {
+    text-align: right;
+    width: 50%;
+    float: right;
+}
+h1 { 
+    background-color:#4aaaa5;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 960px;
+
+}
+
+.Contact {
+
+    background-color: white;
+}
+
+.core {
+    border-style:solid;
+    border-color: #dddddd;
+    background-color: white;
+}
+
+h2 {
+clear: both;
+}
+ 
+img {
+    float: left;;
+}
+
+p {
+    overflow: auto;
+    padding: 2px;
+}
+a {
+    padding: 10px;
+}
+body { 
+    background-image: url(/Users/rodneyjulien/Basic-Portfolio/assets/images/beanstalk.png);
+    clear: both;
+    width: 960px;  
+
+}
+
+img {
+    float: left;
+}
